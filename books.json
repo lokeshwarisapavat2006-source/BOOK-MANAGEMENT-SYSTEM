@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Reaching for the stars",
+    "author": "Paulo Coelho",
+    "genre": "Fiction",
+    "rating": "4.7",
+    "image": "https://covers.openlibrary.org/b/id/8228691-L.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self Help",
+    "rating": "4.8",
+    "image": "https://covers.openlibrary.org/b/id/9259574-L.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Charlotte",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "rating": "4.6",
+    "image": "https://covers.openlibrary.org/b/id/10438180-L.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Recontres Ecolos Remarquables",
+    "author": "Stephen R. Covey",
+    "genre": "Self Help",
+    "rating": "4.7",
+    "image": "https://covers.openlibrary.org/b/id/11153256-L.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Clinical Specialities",
+    "author": "Paula Hawkins",
+    "genre": "Mystery",
+    "rating": "4.5",
+    "image": "https://covers.openlibrary.org/b/id/8372984-L.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Banks Of The Thames",
+    "author": "Alex Michaelides",
+    "genre": "Thriller",
+    "rating": "4.5",
+    "image": "https://covers.openlibrary.org/b/id/9878610-L.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Walking To The Edge",
+    "author": "Eckhart Tolle",
+    "genre": "Spirituality",
+    "rating": "4.7",
+    "image": "https://covers.openlibrary.org/b/id/8225636-L.jpg"
+  },
+  {
+    "id": 8,
+    "title": "The Hobbit",
+    "author": "Cla Cprimide De Uicuilo",
+    "genre": "Fantasy",
+    "rating": "4.8",
+    "image": "https://covers.openlibrary.org/b/id/8101341-L.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Antique Airplanes",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "rating": "4.9",
+    "image": "https://covers.openlibrary.org/b/id/8228694-L.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Sherlock Holmes: The Complete Novels",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "rating": "4.9",
+    "image": "https://covers.openlibrary.org/b/id/8231842-L.jpg"
+  },
+  {
+    "id": 11,
+    "title": "George Orwell",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic",
+    "rating": "4.5",
+    "image": "https://covers.openlibrary.org/b/id/7222246-L.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Introduction To Maternity And Pediatric Nursing",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "rating": "4.8",
+    "image": "https://covers.openlibrary.org/b/id/7222241-L.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "genre": "Biography",
+    "rating": "4.8",
+    "image": "https://covers.openlibrary.org/b/id/8991570-L.jpg"
+  },
+  {
+    "id": 14,
+    "title": "The Hunters Of Kentucky",
+    "author": "Robert T. Kiyosaki",
+    "genre": "Finance",
+    "rating": "4.6",
+    "image": "https://covers.openlibrary.org/b/id/8754591-L.jpg"
+  },
+  {
+    "id": 15,
+    "title": "The Life Of Thomas",
+    "author": "Napoleon Hill",
+    "genre": "Motivation",
+    "rating": "4.7",
+    "image": "https://covers.openlibrary.org/b/id/9114907-L.jpg"
+  },
+  {
+    "id": 16,
+    "title": "In The Blood",
+    "author": "Morgan Housel",
+    "genre": "Finance",
+    "rating": "4.8",
+    "image": "https://covers.openlibrary.org/b/id/11154642-L.jpg"
+  },
+  {
+    "id": 17,
+    "title": "The Grapes Of The Wrath",
+    "author": "Hector Garcia",
+    "genre": "Self Help",
+    "rating": "4.6",
+    "image": "https://covers.openlibrary.org/b/id/9259578-L.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Element A Medicine",
+    "author": "Mark Manson",
+    "genre": "Self Help",
+    "rating": "4.4",
+    "image": "https://covers.openlibrary.org/b/id/8372072-L.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Multiply",
+    "author": "John Green",
+    "genre": "Romance",
+    "rating": "4.6",
+    "image": "https://covers.openlibrary.org/b/id/7275448-L.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Their Eyes Were Watching God",
+    "author": "Frank Herbert",
+    "genre": "Sci-Fi",
+    "rating": "4.8",
+    "image": "https://covers.openlibrary.org/b/id/8231856-L.jpg"
+  }
+]

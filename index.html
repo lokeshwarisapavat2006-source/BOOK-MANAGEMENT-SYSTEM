@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>📚 Book Recommendation</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>📚 Book Recommendation</h1>
+    <div class="actions">
+      <input type="text" id="searchBar" placeholder="🔍 Search books...">
+      <select id="genreFilter">
+        <option value="all">All Genres</option>
+      </select>
+      <button id="toggleMode">🌞 Light Mode</button>
+      <a href="favorites.html" class="fav-link">⭐ Favorites (<span id="favCount">0</span>)</a>
+    </div>
+  </header>
+
+  <main id="bookContainer"></main>
+
+  <div id="toast"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
